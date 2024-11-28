@@ -1,0 +1,69 @@
+#buttonsFirst{
+
+width:  48vh;
+height: 10vh;
+display: flex;
+justify-content: space-between;
+align-items: center;
+font-size: 12px;
+margin-top: 6vh;
+}
+
+#contact{
+background-color: rgb(255, 154, 47);
+border-style: none;
+padding: 1vh 3vh 1vh 3vh;
+width: 10vw;
+text-align: center;
+border-radius: 10px;
+color: white;
+height: 5vh;
+}
+
+#learnmore{
+    background-color: rgb(255, 154, 47);
+    border-style: none;
+    padding: 1vh 3vh 1vh 3vh;
+    width: 10vw; /* solo anchura*/
+    text-align: center;
+    border-radius: 10px;
+    color: white;
+    height: 5vh;
+   
+    }
+
+    #primerbanner {
+        display: flex;
+        justify-content: flex-end;
+        height: 80vh;
+        background: url("../../../images/imagenbanner.png") no-repeat center center;
+        background-size: cover; /* Ajusta la imagen al contenedor manteniendo su proporción */
+    
+    }
+    
+
+#leftDivFirstBanner{
+
+    width: 35%;
+    height: 90%;
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 2vh;
+    margin-right: 3vh;
+}
+
+h1{
+    color: #008B9A;
+    font-size: 40px;
+}
+
+hr{
+    color: red;
+    height: 2vh;
+    width: 100%;
+}
+
+
+

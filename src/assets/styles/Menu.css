@@ -1,0 +1,27 @@
+header{
+
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+
+}
+
+#logo{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 17vh;
+    margin-left: 15vh;
+    width: 17vh;
+}
+
+#menu{
+
+    width: 70%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    font-size: 20px;
+    list-style: none;
+    color: #008B9A;
+}
